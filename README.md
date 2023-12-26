@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ejkc03
+- 👀 I’m interested in metaphysics
+- 🌱 I’m currently learning electrical engineering
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me ejkc2001@proton.me
