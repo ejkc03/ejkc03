@@ -10,8 +10,7 @@
 <h3>📌 About Me</h3>
 
 <em>
-- I am trying to be an embedded systems engineer.
-- Building my skills in microcontrollers and firmware development.
+I am trying to be an embedded systems engineer. Building my skills in microcontrollers and firmware development.
 </em>
 
 <h3>🛠️ Technologies</h3>
