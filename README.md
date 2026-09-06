@@ -2,7 +2,7 @@
 <img align="right" width="110" src="./pikachu.gif" />
 
 <h3 align="center">
-  👋 I am Eujin Choi
+  👋 Hi, I am Eujin.
 </h3>
 
 <p align="center">
@@ -17,8 +17,6 @@
     I am an electrical engineer working to further develop my skills in embedded systems and firmware development.
   </em>
 </p>
-
-<h3 align="center">🛠️ Technologies</h3>
 
 <h3 align="center">🛠️ Technologies</h3>
 
