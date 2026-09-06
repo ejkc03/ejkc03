@@ -1,3 +1,9 @@
+<p align="right">
+  <img src="./FQZTKzG.gif" height="20" />
+  <img height="22" src="https://img.shields.io/badge/STATUS-ACTIVE-2EA44F?style=for-the-badge" />
+  <img src="./FQZTKzG.gif" height="20" />
+</p>
+
 <h3 align="left">
   <img src="./5Gx5aKR.gif" height="20" /> Hi, I'm Eujin.
 </h3>
