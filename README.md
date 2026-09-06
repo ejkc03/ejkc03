@@ -1,5 +1,5 @@
 <h3 align="left">
-  <img src="./m64K8fE.gif" height="20" /> Hi, I'm Eujin.
+  <img src="./5Gx5aKR.gif" height="20" /> Hi, I'm Eujin.
 </h3>
 
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">
-  <img src="./FQZTKzG.gif" height="20" /> About Me
+  <img src="./u4jjfip.gif" height="20" /> About Me
 </h3>
 
 <p align="left">
