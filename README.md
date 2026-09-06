@@ -3,7 +3,7 @@
 </h3>
 
 <p align="left">
-  <a href="mailto:ejkc03@outlook.com"><img height="22" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/ejkc2001/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a> <a href="https://www.instagram.com/ejkc03/"><img height="22" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"></a> <a href="#"><img height="22" src="https://img.shields.io/badge/YouTube-E62117?style=for-the-badge"></a>
+  <a href="mailto:ejkc03@outlook.com"><img height="25" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/ejkc2001/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a> <a href="https://www.instagram.com/ejkc03/"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"></a> <a href="#"><img height="25" src="https://img.shields.io/badge/YouTube-E62117?style=for-the-badge"></a>
 </p>
 
 <h3 align="left">
@@ -21,14 +21,14 @@
 </h3>
 
 <p align="left">
-  <img height="22" src="https://img.shields.io/badge/C-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/C++-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/Python-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/Assembly-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/Rust-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/STM32-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/ESP32-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/UART-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/I²C-6E7781?style=for-the-badge" />
-  <img height="22" src="https://img.shields.io/badge/SPI-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/C-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/C++-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/Python-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/Assembly-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/Rust-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/STM32-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/ESP32-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/UART-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/I²C-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/SPI-6E7781?style=for-the-badge" />
 </p>
