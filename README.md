@@ -1,5 +1,8 @@
 <img align="left" width="110" src="./hamtaro.webp" />
+<img align="left" width="110" src="./tails.gif" />
+
 <img align="right" width="110" src="./pikachu.gif" />
+<img align="right" width="110" src="./link.gif" />
 
 <h3 align="center">
   👋 Hi, I am Eujin.
