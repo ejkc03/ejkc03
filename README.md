@@ -1,5 +1,7 @@
+<img align="right" width="100" src="./hamtaro.webp" />
+
 <h3 align="left">
-  👋 I am Eujin. <br>
+  👋 I am Eujin Choi
 </h3>
 
 <p align="left">
@@ -7,10 +9,10 @@
   <a href="YOUR_LINKEDIN_URL" target="_blank"><img height="22" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge"></a>
 </p>
 
-<h3>📌 About me</h3>
+<h3>📌 About Me</h3>
 
 <em>
-i am trying to be an embedded systems engineer. building my skills in microcontrollers and firmware development.
+I'm an Electrical Engineer building my skills in embedded systems and firmware development.
 </em>
 
 <h3>🛠️ Technologies</h3>
