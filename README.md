@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:ejkc03@outlook.com"><img height="22" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge"></a> <a href="YOUR_LINKEDIN_URL"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a> <a href="YOUR_INSTAGRAM_URL"><img height="22" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"></a> <a href="YOUR_YOUTUBE_URL"><img height="22" src="https://img.shields.io/badge/YouTube-E62117?style=for-the-badge"></a>
+  <a href="mailto:ejkc03@outlook.com"><img height="22" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/ejkc2001/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a> <a href="https://www.instagram.com/ejkc03/"><img height="22" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"></a> <a href="#"><img height="22" src="https://img.shields.io/badge/YouTube-E62117?style=for-the-badge"></a>
 </p>
 
 <h3 align="center">📌 About Me</h3>
