@@ -1,11 +1,9 @@
 <p align="right">
-  <img src="./FQZTKzG.gif" height="20" />
   <img height="22" src="https://img.shields.io/badge/STATUS-ACTIVE-2EA44F?style=for-the-badge" />
-  <img src="./FQZTKzG.gif" height="20" />
 </p>
 
 <h3 align="left">
-  <img src="./5Gx5aKR.gif" height="20" /> Hi, I'm Eujin.
+  Hi, I'm Eujin.
 </h3>
 
 <p align="left">
@@ -13,7 +11,7 @@
 </p>
 
 <h3 align="left">
-  <img src="./u4jjfip.gif" height="20" /> About Me
+  About Me
 </h3>
 
 <p align="left">
@@ -23,18 +21,22 @@
 </p>
 
 <h3 align="left">
-  <img src="./GVn3CfP.gif" height="20" /> Technologies
+  Technologies
 </h3>
 
 <p align="left">
   <img height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img height="25" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img height="25" src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" />
-  <img height="25" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/FreeRTOS-2F4F4F?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Zephyr-6E7781?style=for-the-badge&logo=zephyrproject&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/GPIO-6E7781?style=for-the-badge" />
   <img height="25" src="https://img.shields.io/badge/UART-6E7781?style=for-the-badge" />
   <img height="25" src="https://img.shields.io/badge/I²C-6E7781?style=for-the-badge" />
   <img height="25" src="https://img.shields.io/badge/SPI-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img height="25" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
