@@ -1,5 +1,5 @@
 <h3 align="left">
-  Hi, I'm Eujin.
+  <img src="./assets/5Gx5aKR.gif" height="20" /> Hi, I'm Eujin.
 </h3>
 
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">
-  About Me
+  <img src="./assets/u4jjfip.gif" height="20" /> About Me
 </h3>
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">
-  Technologies
+  <img src="./assets/GVn3CfP.gif" height="20" /> Technologies
 </h3>
 
 <p align="left">
@@ -26,9 +26,9 @@
   <img height="25" src="https://img.shields.io/badge/Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img height="25" src="https://img.shields.io/badge/FreeRTOS-2F4F4F?style=for-the-badge&logo=freertos&logoColor=white" />
-  <img height="25" src="https://img.shields.io/badge/Zephyr-6E7781?style=for-the-badge&logo=zephyrproject&logoColor=white" />
-  <img height="25" src="https://img.shields.io/badge/GPIO-6E7781?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/FreeRTOS-4B5D67?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Zephyr-4B5D67?style=for-the-badge&logo=zephyrproject&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/GPIO-5C677D?style=for-the-badge" />
   <img height="25" src="https://img.shields.io/badge/UART-6E7781?style=for-the-badge" />
   <img height="25" src="https://img.shields.io/badge/I²C-6E7781?style=for-the-badge" />
   <img height="25" src="https://img.shields.io/badge/SPI-6E7781?style=for-the-badge" />
