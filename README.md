@@ -28,9 +28,8 @@
   <img height="25" src="https://img.shields.io/badge/Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img height="25" src="https://img.shields.io/badge/FreeRTOS-4B5D67?style=for-the-badge&logo=freertos&logoColor=white" />
-  <img height="25" src="https://img.shields.io/badge/Zephyr-4B5D67?style=for-the-badge&logo=zephyrproject&logoColor=white" />
-  <img height="25" src="https://img.shields.io/badge/GPIO-5C677D?style=for-the-badge" />
+  <img height="25" src="https://img.shields.io/badge/FreeRTOS-00A86B?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Zephyr-6B4FBB?style=for-the-badge&logo=zephyrproject&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/UART-6E7781?style=for-the-badge" />
   <img height="25" src="https://img.shields.io/badge/I²C-6E7781?style=for-the-badge" />
   <img height="25" src="https://img.shields.io/badge/SPI-6E7781?style=for-the-badge" />
