@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="./assets/stars.gif" />
-</p>
+<img align="right" src="./assets/stars.gif" />
 
 <h3 align="left">
   <img src="./assets/5Gx5aKR.gif" height="20" /> Hi, I'm Eujin.
