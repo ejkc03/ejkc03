@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="./assets/stars.gif" />
+</p>
+
 <h3 align="left">
   <img src="./assets/5Gx5aKR.gif" height="20" /> Hi, I'm Eujin.
 </h3>
