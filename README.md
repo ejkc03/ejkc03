@@ -1,7 +1,7 @@
 <img align="right" src="./assets/stars.gif" />
 
 <h3 align="left">
-  <img src="./assets/5Gx5aKR.gif" height="20" /> Hi, I'm Eujin.
+  <img src="./assets/5Gx5aKR.gif" height="24" /> Hi, I'm Eujin.
 </h3>
 
 <p align="left">
@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">
-  <img src="./assets/u4jjfip.gif" height="20" /> About Me
+  <img src="./assets/u4jjfip.gif" height="24" /> About Me
 </h3>
 
 <p align="left">
@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">
-  <img src="./assets/GVn3CfP.gif" height="20" /> Technologies
+  <img src="./assets/GVn3CfP.gif" height="24" /> Technologies
 </h3>
 
 <p align="left">
