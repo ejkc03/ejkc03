@@ -1,7 +1,3 @@
-<p align="right">
-  <img height="22" src="https://img.shields.io/badge/STATUS-ACTIVE-2EA44F?style=for-the-badge" />
-</p>
-
 <h3 align="left">
   Hi, I'm Eujin.
 </h3>
