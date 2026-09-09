@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">
-  <img src="./assets/mew.gif" height="24" /> Technologies
+  <img src="./assets/mewtwo.gif" height="24" /> Technologies
 </h3>
 
 <p align="left">
