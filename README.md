@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">
-  <img src="./assets/turtwig.gif" height="32" /> About Me
+  <img src="./assets/turtwig.gif" height="32" />  About Me
 </h3>
 
 <p align="left">
