@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">
-  <img src="./assets/prinlup.gif" height="24" /> About Me
+  <img src="./assets/prinplup.gif" height="24" /> About Me
 </h3>
 
 <p align="left">
@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">
-  <img src="./assets/empoleongif" height="24" /> Technologies
+  <img src="./assets/empoleon.gif" height="24" /> Technologies
 </h3>
 
 <p align="left">
