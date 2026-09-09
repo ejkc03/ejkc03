@@ -1,7 +1,7 @@
 <img align="right" src="./assets/stars.gif" />
 
 <h3 align="left">
-  <img src="./assets/chimchar.gif" height="24" /> Hi, I'm Eujin.
+  <img src="./assets/chimchar.gif" height="28" /> Hi, I'm Eujin.
 </h3>
 
 <p align="left">
