@@ -1,5 +1,5 @@
 <h3 align="left">
-  Hi, I'm Eujin. <img src="./assets/chimchar.gif" height="42" />
+  Hi, I'm Eujin.
 </h3>
 
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">
-  About Me <img src="./assets/turtwig.gif" height="32" />
+  About Me
 </h3>
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">
-  Technologies <img src="./assets/piplup.gif" height="32" />
+  Technologies
 </h3>
 
 <p align="left">
