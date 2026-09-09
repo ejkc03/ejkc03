@@ -1,10 +1,19 @@
-<img align="left" src="./assets/stars.gif" />
-<img align="right" src="./assets/stars.gif" />
-
-<h3 align="center">
-  <img src="./assets/chimchar.gif" height="42" /><br>
-  Hi, I'm Eujin.
-</h3>
+<table width="100%">
+  <tr>
+    <td align="left" width="33%">
+      <img src="./assets/stars.gif" />
+    </td>
+    <td align="center" width="34%">
+      <h3>
+        <img src="./assets/chimchar.gif" height="42" /><br>
+        Hi, I'm Eujin.
+      </h3>
+    </td>
+    <td align="right" width="33%">
+      <img src="./assets/stars.gif" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ejkc2001/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/ejkc03/"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="#"><img height="25" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
