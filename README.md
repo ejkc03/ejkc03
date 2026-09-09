@@ -1,8 +1,6 @@
 <img align="left" src="./assets/stars.gif" />
 <img align="right" src="./assets/stars.gif" />
 
-<br clear="both" />
-
 <h3 align="center">
   <img src="./assets/chimchar.gif" height="42" /><br>
   Hi, I'm Eujin.
